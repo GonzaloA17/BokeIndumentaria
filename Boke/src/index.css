@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.b_glow {
+    box-shadow: 0 0 55px rgb(204, 137, 69);
+}
